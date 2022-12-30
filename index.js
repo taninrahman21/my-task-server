@@ -51,9 +51,8 @@ async function run(){
     })
 
   }
-  finally{
-
-  }
+  
+  finally{}
 }
 
 run().catch(err => console.log(err));
